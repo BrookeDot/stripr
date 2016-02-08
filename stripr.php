@@ -5,7 +5,7 @@ URI: https://github.com/BandonRandon/stripr
 Date: 2010, December 28nd
 Description: This project will take content copied from the web or other content with unwanted and strip all non-text formating. 
 Author: Brooke Dukes
-Author URI: http://brooke.codes/stripr
+Author URI: http://brooke.codes/projects/stripr
 Version: 1.0
 (c) 2010 Brooke Dukes All Rights Reserved
   
